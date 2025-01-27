@@ -44,6 +44,15 @@ console.log("Block Hash:", blockHash);
 
 
 
+
+
+
+
+
+
+
+
+
 // to stimulate a block using Sha256 method
 
 
